@@ -1,3 +1,0 @@
-{"args":{},"headers":{"x-forwarded-proto":"http","x-forwarded-port":"80","host":"postman-echo.com","x-amzn-trace-id":"Roo
-t=1-5ed6212f-e828add815371038f06c3ee8","user-agent":"Mozilla/5.0","content-type":"multipart/form-data; boundary=15910915
-02140","accept":"text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2"},"url":"http://postman-echo.com/get"}
