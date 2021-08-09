@@ -1,5 +1,0 @@
-Note {
-title='Write Something here...'
-, content='Write Something here...'
-, date='Wed May 13 23:15:28 IRDT 2020
-}
